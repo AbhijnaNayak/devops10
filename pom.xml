@@ -33,6 +33,7 @@
         <configuration>
           <archive>
             <manifest>
+              <mainClass>com.prg10.prg10</mainClass>
             </manifest>
           </archive>
         </configuration>
